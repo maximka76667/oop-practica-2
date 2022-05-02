@@ -96,7 +96,6 @@ public class Main {
 		System.out.println("Nombre del animal para buscar: ");
 		String nombre = entrada.nextLine();
 		System.out.println(clinica.buscaAnimal(nombre));
-
 	}
 
 	public static void insertarAnimal() {
